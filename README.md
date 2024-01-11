@@ -4,12 +4,12 @@ This project built a supervised extra tree model to shape the issue.
 * Built a feature selection function based on the correlation coefficient matrix, which effectively reduced **78%** of the noise (_28 features down to 6_) and maintained the overall model performance
 * Improved recall while maintaining precision by applying a customized algorithm and precision and recall curve
 ### Several libraries' experiences:
-* Demonstrated Numpy and Pandas use cases through dataset manipulation
-* Demonstrated data visualization use cases through Seaborn, matplotlib
-* Demonstrated model evaluation metrics use cases, such as classification reports, confusion matrix, precision and recall curve
-* Demonstrated resampling methods use cases, such as SMOTE and Random Sampler
-* Demonstrated Sklearn use cases in model building, evaluation, hyperparameter tuning and pipeline workflow
-* Demonstrated Autoencoder, UMAP and Plotly use cases
+* Demonstrated dataset manipulation use case through Numpy and Pandas
+* Demonstrated data visualization use cases through Seaborn, matplotlib, Plotly
+* Demonstrated model evaluation metrics use cases through classification reports, confusion matrix, precision and recall curve
+* Demonstrated resampling methods use cases through SMOTE and Random Sampler
+* Demonstrated model building, evaluation, hyperparameter tuning and pipeline workflow use cases through Sklearn
+* Demonstrated dimension reduction technique use cases through Autoencoder and UMAP
 ### Libraries:
 * Data process
   * Numpy
