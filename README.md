@@ -10,4 +10,30 @@ This project built a supervised extra tree model to shape the issue and improve 
 * Demonstrated resampling methods use cases, such as SMOTE and Random Sampler
 * Demonstrated Sklearn use cases in model building, evaluation, hyperparameter tuning and pipeline workflow
 * Demonstrated Autoencoder, UMAP and Plotly use cases
-  
+### Libs used in this project:
+* Data process
+  * Numpy
+  * Pandas
+* Data visualization
+  * Matplotlib
+  * Seaborn
+  * Plotly
+* Sampling
+  * Pandas
+    * Random sampling
+  * Sklearn
+    * Train test split
+  * Imblearn
+    * SMOTE
+    * Random Sampler
+* Model building & evaluation
+  * Sklearn
+    * Cross Validation
+    * Grid search
+    * Pipeline
+    * Extra tree model
+  * Classification report
+  * Confusion matrix
+  * Precision and recall curve
+* Model selection
+  * Pycaret
