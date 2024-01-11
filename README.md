@@ -9,7 +9,7 @@ This project built a supervised extra tree model to shape the issue.
 * Demonstrated model evaluation metrics use cases through classification reports, confusion matrix, precision and recall curve
 * Demonstrated resampling methods use cases through SMOTE and Random Sampler
 * Demonstrated model building, evaluation, hyperparameter tuning and pipeline workflow use cases through Sklearn
-* Demonstrated dimension reduction technique use cases through Autoencoder and UMAP
+* Demonstrated dimension reduction use cases through Autoencoder and UMAP
 ### Libraries:
 * Data process
   * Numpy
@@ -18,7 +18,6 @@ This project built a supervised extra tree model to shape the issue.
   * Matplotlib
   * Seaborn
   * Plotly
-  * UMAP
 * Sampling
   * Pandas
     * Random sampling
@@ -27,13 +26,15 @@ This project built a supervised extra tree model to shape the issue.
   * Imblearn
     * SMOTE
     * Random Sampler
+* dimension reduction
+  * UMAP
+  * Autoencoder
 * Model building & evaluation
   * Sklearn
     * Cross Validation
     * Grid search
     * Pipeline
     * Extra tree model
-    * Autoencoder
   * Classification report
   * Confusion matrix
   * Precision and recall curve
