@@ -18,6 +18,7 @@ This project built a supervised extra tree model to shape the issue and improve 
   * Matplotlib
   * Seaborn
   * Plotly
+  * UMAP
 * Sampling
   * Pandas
     * Random sampling
@@ -32,6 +33,7 @@ This project built a supervised extra tree model to shape the issue and improve 
     * Grid search
     * Pipeline
     * Extra tree model
+    * Autoencoder
   * Classification report
   * Confusion matrix
   * Precision and recall curve
